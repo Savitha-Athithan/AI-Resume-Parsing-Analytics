@@ -27,11 +27,10 @@ The dashboard provides insights into recruitment and resume-parsing activities, 
 ### KPI Metrics
 ![KPI Metrics](screenshot_kpi.png)
 
-### KPI Charts
-![KPI Charts](screenshot_chart.png)
-![KPI Charts](screenshot_chart2.png)
 
 ### Analytics and Visualisations
+![KPI Charts](screenshot_chart.png)
+![KPI Charts](screenshot_chart2.png)
 ![Analytics and Visualisations](screenshot_trend.png)
 ![Analytics and Visualisations](screenshot_whisker.png)
 ![Analytics and Visualisations](screenshot_table.png)
